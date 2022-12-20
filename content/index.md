@@ -14,7 +14,7 @@ offline in late 2020. We'll see how long this one lasts.
 
 Given the mixed (i.e. random) nature of the things I'll be posting,
 it's invariable that there will be parts of the blog that are too
-technical for most. I'll keep the technical content mostly separate
+technical for some. I'll keep the technical content mostly separate
 from the non-technical, but for this post, there's some stuff you may
 want to bleep past.
 
