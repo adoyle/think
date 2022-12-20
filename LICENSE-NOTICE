@@ -1,0 +1,66 @@
+            License information - December 20, 2022
+
+Files in this repository are covered under various licenses as follows:
+
+1. Code and configuration files used to generate the site that
+   are copied from or derived from Pelican [1] source code.
+
+   Pelican is licensed under the "GNU Affero General Public
+   License v3.0" [2,3]. Pelican files are available on GitHub [4].
+
+   This includes the following files and directories in this
+   repository:
+
+      pelicanconf.py
+      publishconf.py
+      tasks.py
+      themes/notmyidea/*
+      themes/simple/*
+
+2. Site content and other files not mentioned in section 1.
+
+   The content consists primarily of two parts. Files in the
+   content directory are used as input by Pelican to generate
+   the files in the output directory.
+
+   a. Site content and most of the other files are licensed under the
+      "Creative Commons Attribution-ShareALike 4.0 International
+      License" [5]. Attribution is to be given to the author, Allan
+      Doyle.
+
+      This includes the following files and directories in this repository:
+   
+         content
+         output
+
+   b. This file, LICENSE-NOTICE, is covered by the "Creative Commons
+      Attribution 4.0 International License" [6] because part of it
+      was adapted from material covered by that license (see also
+      section 3).
+
+
+3. License text contained within this file.
+
+   The text in "Disclaimer" is adapted from text found in the
+   "Disclaimer" on the "Creative Commons Attribution-ShareALike 4.0
+   International License" [5] and that text is covered by the
+   "Creative Commons Attribution 4.0 International License" [6],
+   created by the Creative Commons organization.
+
+4. Disclaimer
+
+   This file is not a license and has no legal value. You should
+   carefully review all of the terms and conditions of the actual
+   licenses before using the licensed material.  The author of this
+   file, Allan Doyle, is not a lawyer and does not provide legal
+   services.  Distributing, displaying, or linking to this file or the
+   licenses that it describes does not create a lawyer-client or any
+   other relationship.
+
+[1] https://getpelican.com
+[2] https://github.com/getpelican/pelican/blob/master/LICENSE
+[3] https://www.gnu.org/licenses/agpl-3.0.en.html)
+[4] https://github.com/getpelican
+[5] https://creativecommons.org/licenses/by-sa/4.0/
+[6] https://creativecommons.org/licenses/by/4.0/
+
