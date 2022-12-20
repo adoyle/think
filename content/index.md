@@ -21,7 +21,7 @@ want to bleep past.
 -------------------------------------------------------------------------------
 
 There was some internal debate (yes, I talk to myself) about how to
-host this. After poking around a bit, I settled on Pelican as the site
+host this. After poking around a bit, I settled on [Pelican](https://getpelican.com) as the site
 generator (the old one was Wordpress) so I could dip my technical toe
 into the static hosting waters.
 
