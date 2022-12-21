@@ -48,8 +48,14 @@ whether to host them myself or elsewhere. I had a mostly unused
 provides embed codes and I think I can live with the overlays it puts
 on the photos for a few seconds when they are first displayed.
 
-I've settled on Pelican as the generator with Netlify as the hosting
-and GitHub as the repository.
+Current stack:
+
+ * Emacs on my Mac to edit files that are in a local git repo
+ * Preview site via pelican's built-in server
+ * Push to GitHub
+ * Netlify auto-deploys from GitHub
+ * Images on Flickr
+
 
 [^1]: Mainly I bristle at what I see when I run 'ps' on a brand-new
 install of Ubuntu. There's so much cruft running! Doing the same on a
