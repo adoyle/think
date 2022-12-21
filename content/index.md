@@ -1,6 +1,7 @@
 Title: Hello
 Category: random
 Tags: site,about
+Summary: Introductory post about this site
 
 There's tension between adding some content or working on how the site
 looks. I guess I'll add some content first, and worry about looks
@@ -46,6 +47,9 @@ whether to host them myself or elsewhere. I had a mostly unused
 [Flickr](https://www.flickr.com) account so I played with embedding images from there. Flickr
 provides embed codes and I think I can live with the overlays it puts
 on the photos for a few seconds when they are first displayed.
+
+I've settled on Pelican as the generator with Netlify as the hosting
+and GitHub as the repository.
 
 [^1]: Mainly I bristle at what I see when I run 'ps' on a brand-new
 install of Ubuntu. There's so much cruft running! Doing the same on a
